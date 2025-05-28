@@ -1,5 +1,6 @@
 # Contributors
 
-Please add your name and a fun fact below!
+Tevita Mathias
+I play pokemon
 
 - Dr. Kai Dupé – Instructor
